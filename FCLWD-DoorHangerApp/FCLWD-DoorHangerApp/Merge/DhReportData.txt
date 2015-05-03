@@ -1,0 +1,209 @@
+wdHangDte	wdName	wdAddr	wdTermDte	wdAccount	Min	Bal	wdHang	wdTerm	wdPriRte	wdSecRte
+1/1/1900	Rafos, C Landon	2 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	2 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	3 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	4 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	5 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	6 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	7 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	8 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	9 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	10 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	11 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	12 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	13 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	14 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4
+1/1/1900	Rafos, C Landon	5117 Greenway Dr	1/1/1900	01110250-02	20.0000	121.9900	True	True	Water 3/4	Sewer Res. 3/4
+1/1/1900	Blanco, Charles / Christina	122 Fossil Ct W	1/1/1900	01113270-03	15.0000	60.8100	True	False	Water 3/4	Sewer Res. 3/4

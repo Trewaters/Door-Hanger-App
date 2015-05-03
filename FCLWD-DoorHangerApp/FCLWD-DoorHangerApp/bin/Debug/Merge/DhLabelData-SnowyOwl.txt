@@ -1,0 +1,3 @@
+wdHangDte	wdName	wdAddr	wdTermDte	wdCntDte	wdAccount	Min	Bal
+9/9/2014	City Of Fort Collins,	3620 Kechter Rd	9/9/2014	9/9/2014	01212805-09	10.9700	29.4700
+9/9/2014	Stoner & Co,	4308 Kechter Rd	9/9/2014	9/9/2014	01213200-02	854.1400	872.5400
