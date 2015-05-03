@@ -1,0 +1,3 @@
+wdHangDte	wdName	wdAddr	wdTermDte	wdCntDte	wdAccount	Min	Bal
+9/22/2014	Rafos, C Landon	5117 Greenway Dr	9/22/2014	9/22/2014	01110250-02	1.10	1.10
+9/22/2014	Blanco, Charles / Christina	122 Fossil Ct W	9/22/2014	9/22/2014	01113270-03	1.10	1.10

@@ -1,0 +1,160 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DoorHangerApp
+</name>
+</assembly>
+<members>
+<member name="T:DoorHangerApp.DHA_sampleDataSet.tblShutOffDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DoorHangerApp.DHA_sampleDataSet.tblWorkingDataDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DoorHangerApp.DHA_sampleDataSet.tblCodesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DoorHangerApp.DHA_sampleDataSet.tblDateLogDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DoorHangerApp.DHA_sampleDataSet.tblExcelExportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DoorHangerApp.DHA_sampleDataSet.tblShutOffRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DoorHangerApp.DHA_sampleDataSet.tblWorkingDataRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DoorHangerApp.DHA_sampleDataSet.tblCodesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DoorHangerApp.DHA_sampleDataSet.tblDateLogRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DoorHangerApp.DHA_sampleDataSet.tblExcelExportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DoorHangerApp.DHA_sampleDataSet.tblShutOffRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DoorHangerApp.DHA_sampleDataSet.tblWorkingDataRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DoorHangerApp.DHA_sampleDataSet.tblCodesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DoorHangerApp.DHA_sampleDataSet.tblDateLogRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DoorHangerApp.DHA_sampleDataSet.tblExcelExportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DoorHangerApp.DHA_sampleDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:DoorHangerApp.DHA_sampleDataSetTableAdapters.tblShutOffTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:DoorHangerApp.DHA_sampleDataSetTableAdapters.tblWorkingDataTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:DoorHangerApp.DHA_sampleDataSetTableAdapters.tblCodesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:DoorHangerApp.DHA_sampleDataSetTableAdapters.tblDateLogTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:DoorHangerApp.DHA_sampleDataSetTableAdapters.tblExcelExportTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:DoorHangerApp.DHA_sampleDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(DoorHangerApp.DHA_sampleDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:DoorHangerApp.DHA_sampleDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(DoorHangerApp.DHA_sampleDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:DoorHangerApp.DHA_sampleDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(DoorHangerApp.DHA_sampleDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:DoorHangerApp.DHA_sampleDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:DoorHangerApp.DHA_sampleDataSetTableAdapters.TableAdapterManager.UpdateAll(DoorHangerApp.DHA_sampleDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:DoorHangerApp.DHA_sampleDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:DoorHangerApp.DHA_sampleDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:DoorHangerApp.DHA_sampleDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:DoorHangerApp.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DoorHangerApp.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:DoorHangerApp.My.Resources.Resources._3W_Logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DoorHangerApp.My.Resources.Resources.black_add_item">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DoorHangerApp.My.Resources.Resources.black_save">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DoorHangerApp.My.Resources.Resources.blue_connected">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:DoorHangerApp.My.Resources.Resources.gray_view">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:DoorHangerApp.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
